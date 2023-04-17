@@ -1,0 +1,28 @@
+# Archivos binarios
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Directorios de dependencias
+/bin/
+/pkg/
+/vendor/
+
+# Archivos de registro
+*.log
+
+# Archivos de configuración
+*.yaml
+*.yml
+*.toml
+
+# Archivos temporales
+*.tmp
+*.swp
+*.bak
+*~
+
+# Archivos generados por IDEs
+.idea/
+.vscode/
